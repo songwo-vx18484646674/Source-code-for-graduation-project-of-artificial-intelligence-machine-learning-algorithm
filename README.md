@@ -122,7 +122,8 @@ Springboot基于图片识别的菜品销售系统
 基于大数据技术的热门旅游景点数据分析与可视化
 基于大数据技术的影视作品排行榜数据分析与可视化设计
 
-<img width="641" height="1327" alt="image" src="https://github.com/user-attachments/assets/84aa03da-f115-417f-8713-3ba808c1c475" />
+<img width="1029" height="1592" alt="image" src="https://github.com/user-attachments/assets/847c574d-e638-467b-9db9-bdbe2174a250" />
+
 
 
 ## Python语言类毕业设计源码推荐如下
@@ -165,7 +166,8 @@ t基于网络爬虫的热门图书推荐系统
 基于Springboot的新疆特色文化在线教育平台
 Springboot基于数据可视化的大学生创新能力培养平台
 
-![Uploading image.png…]()
+<img width="1012" height="1303" alt="image" src="https://github.com/user-attachments/assets/ab955392-d896-468c-afe7-56f585bbc210" />
+
 
 
 ## java语言类毕业设计源码推荐如下
