@@ -225,7 +225,7 @@ pringboot图书个性化推荐系统的设计与实现
 基于springboot的社区健康管理系统
 基于springboot的社区医院药品管理系统的设计与实现
 
-<img width="1088" height="1597" alt="image" src="https://github.com/user-attachments/assets/b5ef1e9d-7cf0-44b4-a0b5-b689bb2cfc6b" />
+<img width="612" height="1338" alt="image" src="https://github.com/user-attachments/assets/5107ca91-c756-47ee-9735-268045b27a55" />
 
 
 以上所有源码通过百度网盘分享的文件查看：
